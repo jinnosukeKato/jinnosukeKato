@@ -1,8 +1,9 @@
-# こんにちは
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jinnosukeKato&layout=compact)
+<h1 align="center"> Hi, I'm KATO Jinnosuke / 加藤 仁之助</h1>
 
-Java, Kotlin, Arduino(C++), Zig, Pythonを触ったことがあります
+I'm an ungraduated student of dept of electric communication & information.
 
-KiCadを用いた電子基板設計もします
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jinnosukeKato&layout=compact&hide=XSLT)
 
+Java, Kotlin, Python, C, Arduino(C++)を使って何かしらを書いたことがあります  
+KiCadを用いた電子基板設計もできます
 Fusion360も一応使えます
